@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26edeb38-758b-4e4b-a4b8-0f4090a92e1c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iot_i/device_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/iot_i/device_lib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iot_i/mach_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/iot_i/mach_lib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iot_i/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/iot_i/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iot_s/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/iot_s/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iot_s/service_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/iot_s/service_lib.py" afterDir="false" />
-    </list>
+    <list default="true" id="26edeb38-758b-4e4b-a4b8-0f4090a92e1c" name="Changes" comment="projeckt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708703128116</updated>
     </task>
+    <task id="LOCAL-00001" summary="projeckt">
+      <option name="closed" value="true" />
+      <created>1708707200281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708707200281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeckt" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeckt" />
   </component>
 </project>
